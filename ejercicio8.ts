@@ -1,4 +1,4 @@
-class Car{
+export class Car{
     make: string;
 
     constructor(make: string){
